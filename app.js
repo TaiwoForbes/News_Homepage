@@ -16,5 +16,5 @@ menubtn.addEventListener('click', function () {
     <img src="./news-homepage-main/assets/images/icon-menu-close.svg" alt="">
 </i>`
     }
-    console.log('hell')
+    console.log('hello world')
 })
